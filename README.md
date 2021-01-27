@@ -1,2 +1,3 @@
 # riga-intro-to-dh
-Training repo for Riga Technical University Intro to Digital Humanities
+
+Training repo for Intro to Digital Humanities
