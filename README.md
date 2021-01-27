@@ -1,3 +1,3 @@
-# riga-intro-to-dh
+# Intro to DH
 
 Training repo for Intro to Digital Humanities
